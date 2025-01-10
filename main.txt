@@ -1,2 +1,3 @@
-this is the main branch
 Preparing for a big update: Main branch
+adding some exciting new changes! feature 1: changes 
+
